@@ -1,4 +1,4 @@
-package com.jamesward;
+package com.cloudbees;
 
 import javax.servlet.ServletException;
 import javax.servlet.ServletOutputStream;
